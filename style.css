@@ -1,0 +1,46 @@
+header {
+  text-align: center;
+  margin: 0;
+}
+.video {
+  width: 100%;
+}
+#cap {
+  color: grey;
+  font-size: 1.2em;
+  text-align: center;
+}
+#article {
+  margin-right: 25%;
+  margin-left: 25%;
+}
+#uimg {
+  margin-bottom: 0;
+  color: red;
+}
+#img {
+  margin-top: 0;
+  font-size: 1.1em;
+}
+.corp {
+  margin-right: 25%;
+  margin-left: 25%;
+  text-align: left;
+  flex-direction: column;
+}
+#h3 {
+  color: #0a3164;
+}
+
+#h3 {
+  color: red;
+}
+#p.a {
+  margin-top: 0em;
+}
+.h3 {
+  color: aqua;
+}
+li {
+  margin-top: 1vh;
+}
